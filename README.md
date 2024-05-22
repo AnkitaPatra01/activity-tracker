@@ -7,5 +7,5 @@ A Chrome Extension that keeps track of the time you spend on various websites, e
 3. Click on **Load unpacked** and select the location of unzipped source folder.
 
 ## Features 
-* Badges to display time spent on each site. 
+* Badges to display time spent on each site. <br> <img src="images/demo.png" height="400">
 
